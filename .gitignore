@@ -1,0 +1,9 @@
+creditials.txt
+old_logins.txt
+new_logins.txt
+errors.txt
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.idea/
