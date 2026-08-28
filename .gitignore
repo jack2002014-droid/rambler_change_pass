@@ -2,6 +2,7 @@ creditials.txt
 old_logins.txt
 new_logins.txt
 errors.txt
+debug_*.png
 __pycache__/
 *.pyc
 *.pyo
